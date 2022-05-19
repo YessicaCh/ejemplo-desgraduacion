@@ -1,21 +1,20 @@
 
-# Proyecto ejemplo
 
 ## Explicación del proyecto
-Resumen de lo que hace este proyecto
 
-## Video (Sube tu video a Youtube/Vimeo y ponlo aca abajo)
-Lineamientos del video
-Describe brevemente que hace tu proyecto 
-1. Video de 3 minutos MAXIMO
-2. Explica que hace el proyecto que realizaste
-3. Haz un Demo de la funcionalidad
-4. Explica la tecnologia que usaste
+En este proyecto se ha realizado una tarjeta de invitacion de forma dinamica (babyshower), donde un invitado puede registrarse en la lista de regalos que los anfitriones han publicado, de esa forma el anfitrion no tiene la necesidad de indicar un regalo sugerencial.
 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 ## Stack Tecnológico 
-Define que stack usaste, tanto en backend como en frontend
+## 1. Frontend
+     - HMTL, CSS y Boostrap5      
+## 2. Backend
+     - Node Express
+## 3. DataBase
+     - MongoDB Atlas(servicio gratuito)
+## 4. Deploy
+     - Heroku (servicio gratuito)
 
 ## Documenta el codigo que hiciste, puedes usar la documentación de abajo como ejemplo
 ### Endpoints API
